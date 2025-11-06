@@ -1,0 +1,100 @@
+01. Firewall de Cartón (Made in Procurement)
+02. VPN de Chicle: Pega pero No Protege
+03. Zero Day en Mi Cumpleaños
+04. Phishing de Amor: Haz Clic en Mi Corazón
+05. MFA: Mi Fiel Amor (Aprieta el Código)
+06. Ransomware Baila Reguetón
+07. Password1234 (Himno Nacional de la Oficina)
+08. IDS con Insomnio (Alerta por un Estornudo)
+09. Pentester en Chanclas
+10. DevSecOops (Perdón por el Deploy)
+11. Cifrado con Post-its
+12. Botnet de Fans (Like, Share, Infecta)
+13. SOC Nocturno: Café, Logs y Existencialismo
+14. DDoS de Cariño (Te Ataqué Porque Te Quiero)
+15. Ingeniería Social: El Arte de Vender Humo
+16. Honeypot con Sabor a Miel Caducada
+17. 404 Ética No Encontrada
+18. Dark Web, Luz de Velas
+19. AirGap con Agujeros
+20. Supply Chain: La Cadena de Churros
+21. Sandboxing en el Parque Infantil
+22. Políticas que Nadie Leyó (Ni Legal)
+23. Auditoría con PowerPoint Ninja
+24. USB Santo Grial (Recógelo, Valiente)
+25. Keylogger Romántico (Escribo lo que Sientes)
+26. SASE pero con Sazón
+27. Red Team con Sombrero de Fiesta
+28. Blue Team con Ojeras Corporativas
+29. Insider Threat: El Amigo del Amigo
+30. BYOD: Trae Tu Propio Desastre
+31. NISTa que te Viste
+32. ISO-qué (9001 Mal Aparcado)
+33. Bug Bounty y Burbujas
+34. Shodan Me Vio en Chándal
+35. OSINT de Cotilleo Fino
+36. Spoofing Tu Mirada
+37. TLS Te Lo Suplico
+38. Certificate Pinning en el Corcho
+39. Kerberoasting a la Parrilla
+40. PAM: Por Algo Me Vigilan
+41. SSO Sí, SSO No (Me Dijo que Sí)
+42. Token Caducado y Corazón Roto
+43. IAM lo que Soy (Permisos a la Carta)
+44. Segfault en la Primera Cita
+45. CVE de Media Noche
+46. Mitre ATT&CK y Desayuno
+47. SIEM Patético pero Fiel
+48. Threat Intel con Bola de Cristal
+49. Script Kiddie Superstar
+50. Malware con Bigote
+51. Phishing con Ortografía Creativa
+52. Passwordless Pero Con Post-its
+53. Crypto-minero en Mi Tostadora
+54. Wi‑Fi Abierta, Puertas Abiertas
+55. WAF de Gomaespuma
+56. Shadow IT: Luz, Cámara, Acción
+57. Compliance: Tacha y Sonríe
+58. GDPR: Te Quiero, Te Odio, Te Borro
+59. Data Leak en la Piscina
+60. Exfiltración en Tuppers
+61. C2 en el Grupo de la Familia
+62. Macros Malvadas en CV Bonito
+63. SQL Inyección de Drama
+64. XSS: Besitos Cruzados
+65. SSRF: Llévame de Paseo
+66. CSRF con Flores Robadas
+67. LDAP, Quiéreme Mucho
+68. Patching con Cinta Aislante
+69. Legacy: El Fantasma del Servidor
+70. Segmentación con Tiza en el Suelo
+71. Token de Un Solo Uso y Mil Abusos
+72. Password Rotation: La Ruleta del Dolor
+73. SFTP con F de Facebook
+74. MFA por Paloma Mensajera
+75. Threat Hunting Caza de Mariposas
+76. Forense de Andén (CSI: Servidor)
+77. Anonimato: Soy Nadie, Encantado
+78. Proxy Emocional Inverso
+79. Clickjacking a Tu Corazón
+80. Captcha Filosófico (¿Eres Humano?)
+81. Staging en Producción (Shhh)
+82. Secrets en el README (No Leer)
+83. Kubernetes: Kuber… ¿Qué?
+84. Container Escape Room
+85. IaC: Infraestructura a Capricho
+86. Secret Manager con Memoria de Pez
+87. Rotate Keys, Not Feelings
+88. Human Firewall en Huelga
+89. Políticas de Contraseña con Yoga
+90. Edición en Vivo: YOLOsec
+91. Threat Model en Servilleta
+92. BCP: Plan B es Pan C
+93. DRP: Desastre Romántico Planificado
+94. SLA de Besos Perdidos
+95. SRE: Sueño, Reparo, Enciendo
+96. Root Cause: Era Lunes
+97. Postmortem con Pastas
+98. Retrospectiva con Palomitas
+99. OKR: Objetivos Klandestinos de Riesgo
+100. KPI: Kibernética Poética Irónica
